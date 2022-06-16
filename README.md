@@ -1,8 +1,10 @@
 # Ahmed
 I am working as a freelancer .NET developer
-I have been involved in the development of more than 20 projects
+I have been involved in the development of more than 20 projects of different scales
+
 SUMMARY OF QUALIFICATIONS
- Developing solutions using Microsoft .NET technology using the following:
+
+ Developing solutions using Microsoft .NET technology using the following:
 - VB.Net and C#
 - ASP.Net
 - ADO.Net
