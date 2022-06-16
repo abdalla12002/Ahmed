@@ -100,11 +100,14 @@ Supporting an accounting system: solving customers’ problems and analyzing the
 EDUCATION
 
  1998 – 2002 University of Mansoura
+
 B.Sc. Engineering Majoring in Computers and Systems Engineering
 2020 Diploma in automatic control
+
 Now studying master’s degree in Computers and Systems Engineering
 
 LANGUAGES
 
  Arabic: Very Good reading and writing
+
  English: Good reading and writing
