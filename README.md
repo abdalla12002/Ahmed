@@ -1,4 +1,4 @@
-# Ahmed
+# Ahmed Abdalla
 I am working as a freelancer .NET developer
 I have been involved in the development of more than 20 projects of different scales
 
